@@ -31,6 +31,6 @@ Thumbs.db
 /build
 /dist
 /target
-
+/out
 # 忽略第三方库和依
 
