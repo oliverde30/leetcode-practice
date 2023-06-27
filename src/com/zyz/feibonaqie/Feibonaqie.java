@@ -1,4 +1,4 @@
-package zyz.feibonaqie;
+package com.zyz.feibonaqie;
 
 public class Feibonaqie {
     public static void main(String[] args) {

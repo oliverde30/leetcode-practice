@@ -1,4 +1,4 @@
-package zyz.binsearch;
+package com.zyz.binsearch;
 
 /**
  * 2021-05-26

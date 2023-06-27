@@ -1,4 +1,4 @@
-package zyz.feibonaqie;
+package com.zyz.feibonaqie;
 
 import java.util.Vector;
 

@@ -1,4 +1,4 @@
-package zyz.bintree;
+package com.zyz.bintree;
 
 import java.util.ArrayList;
 import java.util.List;

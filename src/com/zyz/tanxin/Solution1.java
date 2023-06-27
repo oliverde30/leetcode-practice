@@ -1,4 +1,4 @@
-package zyz.tanxin;
+package com.zyz.tanxin;
 
 import java.util.Arrays;
 import java.util.Comparator;
